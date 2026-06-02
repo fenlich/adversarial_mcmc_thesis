@@ -9,3 +9,5 @@ attack_results_grid*
 charmer_copy.py
 requirements_.txt
 bytepredllm*
+.venv
+__pycache__
