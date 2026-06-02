@@ -1,0 +1,2 @@
+# our method
+python3 attack.py --attack_name our_method --max_steps 100 --beta 2 --lambda_lev 0.5 --tau 0 --device xpu --loss margin --early_stop --dataset sst --model meta-llama/Llama-3.2-1B-Instruct --size 100
